@@ -16,4 +16,9 @@ class Task2Test {
         String actual = Task2.getEncryptedStr(st);
         assertEquals(expected,actual);
     }
+
+    @Test
+    void getEncryptedStr1() {
+
+    }
 }
