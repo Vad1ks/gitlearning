@@ -24,6 +24,6 @@ class Task2Test {
 
     @Test
     void getEncryptedStr2() {
-
+        String a = "df";
     }
 }
