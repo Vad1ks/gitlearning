@@ -21,4 +21,9 @@ class Task2Test {
     void getEncryptedStr1() {
 
     }
+
+    @Test
+    void getEncryptedStr2() {
+
+    }
 }
